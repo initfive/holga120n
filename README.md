@@ -1,4 +1,4 @@
-# holga120n
+# holga 120-n
 Picture sharing app dedicated to analog photography built with VueJS, Express, SQL, CSS, Html
 
 View of main window
